@@ -1,8 +1,8 @@
-Hello, my name is John-Stuart Gonsales and I am a:
+Hello, my name is Johnny and I am a:
   - Composer
   - Writer
-  - Game Developer
-  - Web Developer
+  - Developer
+  - Game designer
   - Sound Designer
   - Audio Engineer
 
