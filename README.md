@@ -11,7 +11,12 @@ Outside of programming and software development, I like to meet up with friends,
 </details>
 
 <details><summary>🛠 Languages and tools</summary>
-
+  C
+  Python
+  SQL
+  C#
+  GDScript
+  HTML
 </details>
 
 
