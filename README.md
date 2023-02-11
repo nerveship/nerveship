@@ -14,5 +14,8 @@ Outside of programming and software development, I like to meet up with friends,
   C, C#, Python, GDScript, HTML
 </details>
 
+<details><summary>🎮 Check out my games</summary>
+  <a href="https://nerveship.itch.io/2d-jump-guy">2D JUMP GUY</a>
+</details>
 
 
