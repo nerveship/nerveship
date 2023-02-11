@@ -15,7 +15,7 @@ Outside of programming and software development, I like to meet up with friends,
 </details>
 
 <details><summary>🎮 Check out my games</summary>
-  <a href="https://nerveship.itch.io/2d-jump-guy">2D JUMP GUY</a>
+  <a href="https://nerveship.itch.io/2d-jump-guy">2D JUMP GUY</a> - First small video game created with GDScript and C#, it has features seen im popular platforming video games such as coyote time and buffering on the players jump leading to a tight control system. The project is extremely simple and can be completed within 5 minutes and was mainly made to get used to the Godot game engine with an easy project.
 </details>
 
 
