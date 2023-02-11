@@ -1,11 +1,13 @@
-Hello, my name is Johnny and I am a:
-  - Composer
-  - Writer
-  - Developer
-  - Game designer
-  - Sound Designer
-  - Audio Engineer
+Hello, welcome! 👋
 
-Looking to host and contribute to other projects as I learn along the way! 
-I'm currently focused on learning software development and game development with Godot!
-You can reach me through my email which is nerveship@gmail.com!
+<details><summary>About me</summary>
+My name is Johnny, I am a software engineer focused on learning C# and GDScript, but I'm open to learning new technologies!
+  
+I am enthusiastic about problem solving and working in teams to achieve my goals.
+  
+I like to create and build things and learn more about whatever I'm working with!
+  
+Outside of programming and software development, I like to meet up with friends, play and write music and write short stories. 
+</details>
+
+
