@@ -11,7 +11,7 @@ Outside of programming and software development, I like to meet up with friends,
 </details>
 
 <details><summary>🛠 Languages and tools</summary>
-  C, C#, Python, GDScript, HTML
+  C, C#, Python, JavaScript, HTML, React, GDScript
 </details>
 
 <details><summary>🎮 Check out my games</summary>
